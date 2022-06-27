@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/1">
+	<dbp:originalTitle>Toy Story</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/2">
+	<dbp:originalTitle>Jumanji</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/3">
+	<dbp:originalTitle>Grumpier Old Men</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/4">
+	<dbp:originalTitle>Waiting to Exhale</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/5">
+	<dbp:originalTitle>Father of the Bride Part II</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/6">
+	<dbp:originalTitle>Heat</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/7">
+	<dbp:originalTitle>Sabrina</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Germany|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>French|English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/8">
+	<dbp:originalTitle>Tom and Huck</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/9">
+	<dbp:originalTitle>Sudden Death</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/10">
+	<dbp:originalTitle>GoldenEye</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/11">
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalTitle>American President, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/12">
+	<dbp:originalTitle>Dracula: Dead and Loving It</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France|United States of America|Italy</sch:countryOfOrigin>
+	<dbp:originalLanguage>German|English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/13">
+	<dbp:originalTitle>Balto</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/14">
+	<dbp:originalTitle>Nixon</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/15">
+	<dbp:originalTitle>Cutthroat Island</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France|Germany|Italy|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/16">
+	<dbp:originalTitle>Casino</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America|France</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/17">
+	<dbp:originalTitle>Sense and Sensibility</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/18">
+	<dbp:originalTitle>Four Rooms</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/19">
+	<dbp:originalTitle>Ace Ventura: When Nature Calls</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/20">
+	<dbp:originalTitle>Money Train</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/21">
+	<dbp:originalTitle>Get Shorty</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/22">
+	<dbp:originalTitle>Copycat</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/23">
+	<dbp:originalTitle>Assassins</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America|France</sch:countryOfOrigin>
+	<dbp:originalLanguage>English|Spanish</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/24">
+	<dbp:originalTitle>Powder</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/25">
+	<dbp:originalTitle>Leaving Las Vegas</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/26">
+	<dbp:originalTitle>Othello</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America|United Kingdom</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/27">
+	<dbp:originalTitle>Now and Then</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/28">
+	<dbp:originalTitle>Persuasion</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom|United States of America|France</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/29">
+	<dbp:originalTitle>City of Lost Children, The (Cité des enfants perdus, La)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France|Germany|Spain|Belgium</sch:countryOfOrigin>
+	<dbp:originalLanguage>French</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/30">
+	<dbp:originalTitle>Shanghai Triad (Yao a yao yao dao waipo qiao)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>People's Republic of China|France</sch:countryOfOrigin>
+	<dbp:originalLanguage>Mandarin Chinese</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/31">
+	<dbp:originalTitle>Dangerous Minds</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English|Spanish</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/32">
+	<dbp:originalTitle>Twelve Monkeys (a.k.a. 12 Monkeys)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/34">
+	<dbp:originalTitle>Babe</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Australia|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/36">
+	<dbp:originalTitle>Dead Man Walking</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/38">
+	<dbp:originalTitle>It Takes Two</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/39">
+	<dbp:originalTitle>Clueless</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/40">
+	<dbp:originalTitle>Cry, the Beloved Country</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>South Africa|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/41">
+	<dbp:originalTitle>Richard III</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/42">
+	<dbp:originalTitle>Dead Presidents</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/43">
+	<dbp:originalTitle>Restoration</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America|United Kingdom</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/44">
+	<dbp:originalTitle>Mortal Kombat</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/45">
+	<dbp:originalTitle>To Die For</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/46">
+	<dbp:originalTitle>How to Make an American Quilt</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/47">
+	<dbp:originalTitle>Seven (a.k.a. Se7en)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/48">
+	<dbp:originalTitle>Pocahontas</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/49">
+	<dbp:originalTitle>When Night Is Falling</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Canada</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/50">
+	<dbp:originalTitle>Usual Suspects, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/52">
+	<dbp:originalTitle>Mighty Aphrodite</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/53">
+	<dbp:originalTitle>Lamerica</dbp:originalTitle>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<sch:countryOfOrigin>Italy|France</sch:countryOfOrigin>
+	<dbp:originalLanguage>Italian</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/54">
+	<dbp:originalTitle>Big Green, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/55">
+	<dbp:originalTitle>Georgia</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/57">
+	<dbp:originalTitle>Home for the Holidays</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/58">
+	<dbp:originalTitle>Postman, The (Postino, Il)</dbp:originalTitle>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<sch:countryOfOrigin>France|Belgium|Italy</sch:countryOfOrigin>
+	<dbp:originalLanguage>Italian|Spanish</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/60">
+	<dbp:originalTitle>Indian in the Cupboard, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/61">
+	<dbp:originalTitle>Eye for an Eye</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/62">
+	<dbp:originalTitle>Mr. Holland's Opus</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/63">
+	<dbp:originalTitle>Don't Be a Menace to South Central While Drinking Your Juice in the Hood</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/64">
+	<dbp:originalTitle>Two if by Sea</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/65">
+	<dbp:originalTitle>Bio-Dome</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/66">
+	<dbp:originalTitle>Lawnmower Man 2: Beyond Cyberspace</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/68">
+	<dbp:originalTitle>French Twist (Gazon maudit)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France</sch:countryOfOrigin>
+	<dbp:originalLanguage>French</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/69">
+	<dbp:originalTitle>Friday</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/70">
+	<dbp:originalTitle>From Dusk Till Dawn</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>Spanish|English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/71">
+	<dbp:originalTitle>Fair Game</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/72">
+	<dbp:originalTitle>Kicking and Screaming</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/73">
+	<dbp:originalTitle>Misérables, Les</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France</sch:countryOfOrigin>
+	<dbp:originalLanguage>French</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/74">
+	<dbp:originalTitle>Bed of Roses</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/75">
+	<dbp:originalTitle>Big Bully</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/76">
+	<dbp:originalTitle>Screamers</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Canada|Japan|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/77">
+	<dbp:originalTitle>Nico Icon</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/78">
+	<dbp:originalTitle>Crossing Guard, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/79">
+	<dbp:originalTitle>Juror, The</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/80">
+	<dbp:originalTitle>White Balloon, The (Badkonake sefid)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Iran</sch:countryOfOrigin>
+	<dbp:originalLanguage>Persian</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/81">
+	<dbp:originalTitle>Things to Do in Denver When You're Dead</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/82">
+	<dbp:originalTitle>Antonia's Line (Antonia)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Netherlands</sch:countryOfOrigin>
+	<dbp:originalLanguage>Dutch</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/83">
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalTitle>Once Upon a Time... When We Were Colored</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/85">
+	<dbp:originalTitle>Angels and Insects</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom|United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/86">
+	<dbp:originalTitle>White Squall</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America|United Kingdom</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/87">
+	<dbp:originalTitle>Dunston Checks In</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/88">
+	<dbp:originalTitle>Black Sheep</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/89">
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+	<dbp:originalTitle>Nick of Time</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/92">
+	<dbp:originalTitle>Mary Reilly</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/93">
+	<dbp:originalTitle>Vampire in Brooklyn</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/94">
+	<dbp:originalTitle>Beautiful Girls</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/95">
+	<dbp:originalTitle>Broken Arrow</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/96">
+	<dbp:originalTitle>In the Bleak Midwinter</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United Kingdom</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/97">
+	<dbp:originalTitle>Hate (Haine, La)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>France</sch:countryOfOrigin>
+	<dbp:originalLanguage>French</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/99">
+	<dbp:originalTitle>Heidi Fleiss: Hollywood Madam</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/100">
+	<dbp:originalTitle>City Hall</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/101">
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:originalTitle>Bottle Rocket</dbp:originalTitle>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>Spanish|English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/102">
+	<dbp:originalTitle>Mr. Wrong</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/103">
+	<dbp:originalTitle>Unforgettable</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/104">
+	<dbp:originalTitle>Happy Gilmore</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/105">
+	<dbp:originalTitle>Bridges of Madison County, The</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/106">
+	<dbp:originalTitle>Nobody Loves Me (Keiner liebt mich)</dbp:originalTitle>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<sch:countryOfOrigin>Germany</sch:countryOfOrigin>
+	<dbp:originalLanguage>German</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/107">
+	<dbp:originalTitle>Muppet Treasure Island</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/108">
+	<dbp:originalTitle>Catwalk</dbp:originalTitle>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/110">
+	<dbp:originalTitle>Braveheart</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/111">
+	<dbp:originalTitle>Taxi Driver</dbp:originalTitle>
+	<dbp:releaseDate>1976</dbp:releaseDate>
+	<sch:countryOfOrigin>United States of America</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies-origin/112">
+	<dbp:originalTitle>Rumble in the Bronx (Hont faan kui)</dbp:originalTitle>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<sch:countryOfOrigin>Canada|Hong Kong</sch:countryOfOrigin>
+	<dbp:originalLanguage>English</dbp:originalLanguage>
+</rdf:Description>
+
+</rdf:RDF>

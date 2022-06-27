@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="https://www.dbpedia.org//ontoplogy/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://www.schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/1.0">
+	<dbp:gis>Univ_016</dbp:gis>
+	<dbp:uniName>Dominican House of Studies</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q5290747</sch:sameAs>
+	<sch:website>http://www.dhs.edu</sch:website>
+	<dbp:address>487 MICHIGAN AVENUE NE</dbp:address>
+	<dbp:shapel>753.638132180519</dbp:shapel>
+	<dbp:shapea>31647.8642751505</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/2.0">
+	<dbp:gis>Univ_023</dbp:gis>
+	<dbp:uniName>Stanford University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q41506</sch:sameAs>
+	<sch:website>https://siw.stanford.edu/</sch:website>
+	<dbp:address>2661 CONNECTICUT AVENUE NW</dbp:address>
+	<dbp:shapel>105.168729513869</dbp:shapel>
+	<dbp:shapea>448.839365260373</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/3.0">
+	<dbp:gis>Univ_011</dbp:gis>
+	<dbp:uniName>Trinity College</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q73079</sch:sameAs>
+	<sch:website>http://www.trinitydc.edu/</sch:website>
+	<dbp:address>125 MICHIGAN AVENUE NE</dbp:address>
+	<dbp:shapel>1573.00049464856</dbp:shapel>
+	<dbp:shapea>139712.00552794</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/4.0">
+	<dbp:gis>Univ_004</dbp:gis>
+	<dbp:uniName>George Washington University at Mount Vernon College</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q681025</sch:sameAs>
+	<sch:website>https://www.gwu.edu/mount-vernon-campus</sch:website>
+	<dbp:address>2100 FOXHALL ROAD NW</dbp:address>
+	<dbp:shapel>1439.2419020153</dbp:shapel>
+	<dbp:shapea>91182.2849129974</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/5.0">
+	<dbp:gis>Univ_010</dbp:gis>
+	<dbp:uniName>Strayer University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7622587</sch:sameAs>
+	<sch:website>http://www.strayer.edu/</sch:website>
+	<dbp:address>1133 15TH STREET NW</dbp:address>
+	<dbp:shapel>397.96630643768</dbp:shapel>
+	<dbp:shapea>4375.19901205766</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/6.0">
+	<dbp:uniName>Boston College</dbp:uniName>
+	<dbp:gis>Univ_017</dbp:gis>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q49118</sch:sameAs>
+	<sch:website>https://www.paulist.org/location/st-pauls-college/</sch:website>
+	<dbp:address>3015 4TH STREET NE</dbp:address>
+	<dbp:shapel>921.891442986714</dbp:shapel>
+	<dbp:shapea>38420.5919264227</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/7.0">
+	<dbp:gis>Univ_026</dbp:gis>
+	<dbp:uniName>Our Lady of Lebanon Maronite Seminary</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q501758</sch:sameAs>
+	<sch:website>http://maroniteseminary.org/</sch:website>
+	<dbp:address>7164 ALASKA AVENUE NW</dbp:address>
+	<dbp:shapel>246.365655542528</dbp:shapel>
+	<dbp:shapea>3425.34905060382</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/8.0">
+	<dbp:gis>Univ_033</dbp:gis>
+	<dbp:uniName>Johns Hopkins University Paul H. Nitze School of Advanced International Studies</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1352632</sch:sameAs>
+	<sch:website>http://www.sais-jhu.edu/</sch:website>
+	<dbp:address>1740 MASSACHUSETTS AVENUE NW</dbp:address>
+	<dbp:shapel>494.335226145858</dbp:shapel>
+	<dbp:shapea>4924.38692933845</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/9.0">
+	<dbp:gis>Univ_031</dbp:gis>
+	<dbp:uniName>Les Aspin Center for Government</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1416632</sch:sameAs>
+	<sch:website>http://www.marquette.edu/aspin/</sch:website>
+	<dbp:address>502 EAST CAPITOL STREET SE</dbp:address>
+	<dbp:shapel>76.970000013709</dbp:shapel>
+	<dbp:shapea>243.989590760698</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/10.0">
+	<dbp:gis>Univ_034</dbp:gis>
+	<dbp:uniName>Cornell in Washington</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q348402</sch:sameAs>
+	<sch:website>http://www.ciw.cornell.edu/</sch:website>
+	<dbp:address>2148 O STREET NW</dbp:address>
+	<dbp:shapel>99.3648750036954</dbp:shapel>
+	<dbp:shapea>585.28959020879</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/11.0">
+	<dbp:gis>Univ_019</dbp:gis>
+	<dbp:uniName>American University Spring Valley Building</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q371522</sch:sameAs>
+	<sch:website>https://www.american.edu/</sch:website>
+	<dbp:address>4801 MASSACHUSETTS AVENUE NW</dbp:address>
+	<dbp:shapel>249.799126360159</dbp:shapel>
+	<dbp:shapea>3869.92438802337</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/12.0">
+	<dbp:gis>Univ_024</dbp:gis>
+	<dbp:uniName>Syracuse University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q617433</sch:sameAs>
+	<sch:website>http://greenberghouse.syr.edu/</sch:website>
+	<dbp:address>2301 CALVERT STREET NW</dbp:address>
+	<dbp:shapel>74.9929350779002</dbp:shapel>
+	<dbp:shapea>285.697071059471</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/13.0">
+	<dbp:gis>Univ_030</dbp:gis>
+	<dbp:uniName>University of California Washington Center</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7895185</sch:sameAs>
+	<sch:website>http://www.ucdc.edu/</sch:website>
+	<dbp:address>1608 RHODE ISLAND AVENUE NW</dbp:address>
+	<dbp:shapel>169.23165181445</dbp:shapel>
+	<dbp:shapea>1610.12466700928</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/14.0">
+	<dbp:gis>Univ_036</dbp:gis>
+	<dbp:uniName>Theological College</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7782221</sch:sameAs>
+	<sch:website>http://www.theologicalcollege.org/</sch:website>
+	<dbp:address>401 MICHIGAN AVENUE NE</dbp:address>
+	<dbp:shapel>585.33945785792</dbp:shapel>
+	<dbp:shapea>20057.8335949429</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/15.0">
+	<dbp:gis>Univ_015</dbp:gis>
+	<dbp:uniName>Howard University Law School</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q5921126</sch:sameAs>
+	<sch:website>http://www.law.howard.edu/</sch:website>
+	<dbp:address>2900 VAN NESS STREET NW</dbp:address>
+	<dbp:shapel>1215.41787363185</dbp:shapel>
+	<dbp:shapea>80360.8733654164</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/16.0">
+	<dbp:gis>Univ_038</dbp:gis>
+	<dbp:uniName>NYU Washington, DC</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2924461</sch:sameAs>
+	<sch:website>http://www.nyu.edu/global/global-academic-centers/washington-dc.html</sch:website>
+	<dbp:address>1307 L St NW, Washington, DC 20005</dbp:address>
+	<dbp:shapel>108.662958030142</dbp:shapel>
+	<dbp:shapea>651.489654510144</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/17.0">
+	<dbp:gis>Univ_039</dbp:gis>
+	<dbp:uniName>The Institute of World Politics</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7742212</sch:sameAs>
+	<sch:website>http://www.iwp.edu/</sch:website>
+	<dbp:address>1521 16th St NW</dbp:address>
+	<dbp:shapel>91.1353749930858</dbp:shapel>
+	<dbp:shapea>450.116495576928</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/18.0">
+	<dbp:gis>Univ_037</dbp:gis>
+	<dbp:uniName>ASU in Washington, DC</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2723670</sch:sameAs>
+	<sch:website>https://washingtondc.asu.edu/</sch:website>
+	<dbp:address>1834 Connecticut Ave NW</dbp:address>
+	<dbp:shapel>76.0348036436039</dbp:shapel>
+	<dbp:shapea>251.620985007262</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/19.0">
+	<dbp:gis>Univ_008</dbp:gis>
+	<dbp:uniName>National Defense University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1967074</sch:sameAs>
+	<sch:website>http://www.ndu.edu/</sch:website>
+	<dbp:address>4TH AVENUE SW &amp; D STREET SW, FORT MCNAIR</dbp:address>
+	<dbp:shapel>920.225749991834</dbp:shapel>
+	<dbp:shapea>31092.8729541059</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/20.0">
+	<dbp:gis>Univ_006</dbp:gis>
+	<dbp:uniName>Georgetown University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q333886</sch:sameAs>
+	<sch:website>http://www.georgetown.edu/</sch:website>
+	<dbp:address>37TH STREET NW &amp; O STREET NW</dbp:address>
+	<dbp:shapel>4706.77656196934</dbp:shapel>
+	<dbp:shapea>412795.126432203</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/21.0">
+	<dbp:gis>Univ_007</dbp:gis>
+	<dbp:uniName>Howard University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1068752</sch:sameAs>
+	<sch:website>http://www.howard.edu/</sch:website>
+	<dbp:address>2400 6TH STREET NW</dbp:address>
+	<dbp:shapel>12765.9516007811</dbp:shapel>
+	<dbp:shapea>406569.005065696</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/22.0">
+	<dbp:gis>Univ_005</dbp:gis>
+	<dbp:uniName>George Washington University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q432637</sch:sameAs>
+	<sch:website>http://www.gwu.edu/</sch:website>
+	<dbp:address>2121 I STREET NW</dbp:address>
+	<dbp:shapel>11155.7342395649</dbp:shapel>
+	<dbp:shapea>184917.086790628</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/23.0">
+	<dbp:gis>Univ_003</dbp:gis>
+	<dbp:uniName>Gallaudet University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1056373</sch:sameAs>
+	<sch:website>http://www.gallaudet.edu/</sch:website>
+	<dbp:address>800 FLORIDA AVENUE NE</dbp:address>
+	<dbp:shapel>2829.24958157229</dbp:shapel>
+	<dbp:shapea>394817.731228973</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/24.0">
+	<dbp:gis>Univ_013</dbp:gis>
+	<dbp:uniName>Georgetown Law School</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q670897</sch:sameAs>
+	<sch:website>http://www.law.georgetown.edu/</sch:website>
+	<dbp:address>600 NEW JERSEY AVENUE NW</dbp:address>
+	<dbp:shapel>691.230908443616</dbp:shapel>
+	<dbp:shapea>23821.5225296265</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/25.0">
+	<dbp:gis>Univ_032</dbp:gis>
+	<dbp:uniName>Howard University School of Divinity</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q101030479</sch:sameAs>
+	<sch:website>http://divinity.howard.edu/</sch:website>
+	<dbp:address>1400 SHEPHERD STREET NE</dbp:address>
+	<dbp:shapel>2143.27822513046</dbp:shapel>
+	<dbp:shapea>126894.115276257</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/26.0">
+	<dbp:gis>Univ_028</dbp:gis>
+	<dbp:uniName>Marist College</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q6765664</sch:sameAs>
+	<sch:website>http://www.marist.edu/</sch:website>
+	<dbp:address>815 VARNUM STREET NE</dbp:address>
+	<dbp:shapel>402.157576396505</dbp:shapel>
+	<dbp:shapea>9002.70414539036</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/27.0">
+	<dbp:gis>Univ_002</dbp:gis>
+	<dbp:uniName>Catholic University of America</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q179036</sch:sameAs>
+	<sch:website>http://www.cua.edu/</sch:website>
+	<dbp:address>620 MICHIGAN AVENUE NE</dbp:address>
+	<dbp:shapel>5589.70901570918</dbp:shapel>
+	<dbp:shapea>604998.803081403</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/28.0">
+	<dbp:gis>Univ_012</dbp:gis>
+	<dbp:uniName>University of the District of Columbia</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q3551751</sch:sameAs>
+	<sch:website>http://www.udc.edu/</sch:website>
+	<dbp:address>4200 CONNECTICUT AVENUE NW</dbp:address>
+	<dbp:shapel>1560.38208183776</dbp:shapel>
+	<dbp:shapea>89377.9845513798</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/29.0">
+	<dbp:gis>Univ_040</dbp:gis>
+	<dbp:uniName>Capuchin College</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q5037113</sch:sameAs>
+	<sch:website>http://capuchincollege.com/</sch:website>
+	<dbp:address>4121 Harewood Road NE</dbp:address>
+	<dbp:shapel>484.050504979318</dbp:shapel>
+	<dbp:shapea>9564.88249809643</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/30.0">
+	<dbp:gis>831041</dbp:gis>
+	<dbp:uniName>University of the Potomac</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7235043</sch:sameAs>
+	<sch:website>https://potomac.edu/</sch:website>
+	<dbp:address>1401 H STREET NW</dbp:address>
+	<dbp:shapel>226.820375010371</dbp:shapel>
+	<dbp:shapea>3094.79674590787</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/31.0">
+	<dbp:gis>Univ_001</dbp:gis>
+	<dbp:uniName>American University</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q168000</sch:sameAs>
+	<sch:website>https://www.american.edu/</sch:website>
+	<dbp:address>4400 MASSACHUSETTS AVENUE NW</dbp:address>
+	<dbp:shapel>5880.26828028258</dbp:shapel>
+	<dbp:shapea>370155.034282836</dbp:shapea>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/campuses/32.0">
+	<dbp:gis>Univ_001</dbp:gis>
+	<dbp:uniName>American University Washington College of Law</dbp:uniName>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q167049</sch:sameAs>
+	<sch:website>https://www.wcl.american.edu/</sch:website>
+	<dbp:address>4300 NEBRASKA AVENUE NW</dbp:address>
+	<dbp:shapel>762.877443632697</dbp:shapel>
+	<dbp:shapea>33139.7450895808</dbp:shapea>
+</rdf:Description>
+
+</rdf:RDF>

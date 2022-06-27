@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:dbp="http://dbpedia.org/ontology/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:sch="https://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/1">
+	<dbp:originalTitle>Toy Story</dbp:originalTitle>
+	<dbp:director>John Lasseter</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114709</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q171048</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Adventure|Animation|Children|Comedy|Fantasy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/2">
+	<dbp:originalTitle>Jumanji</dbp:originalTitle>
+	<dbp:director>Joe Johnston</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113497</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q222939</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Adventure|Children|Fantasy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/3">
+	<dbp:originalTitle>Grumpier Old Men</dbp:originalTitle>
+	<dbp:director>Howard Deutch</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113228</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q782465</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/4">
+	<dbp:originalTitle>Waiting to Exhale</dbp:originalTitle>
+	<dbp:director>Forest Whitaker</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114885</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q736254</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/5">
+	<dbp:originalTitle>Father of the Bride Part II</dbp:originalTitle>
+	<dbp:director>Charles Shyer</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113041</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1304560</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/6">
+	<dbp:originalTitle>Heat</dbp:originalTitle>
+	<dbp:director>Michael Mann</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113277</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q42198</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Crime|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/7">
+	<dbp:originalTitle>Sabrina</dbp:originalTitle>
+	<dbp:director>Sydney Pollack</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114319</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q900708</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/8">
+	<dbp:genre>Adventure|Children</dbp:genre>
+	<dbp:originalTitle>Tom and Huck</dbp:originalTitle>
+	<dbp:director>Peter Hewitt</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112302</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1616185</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/9">
+	<dbp:originalTitle>Sudden Death</dbp:originalTitle>
+	<dbp:director>Peter Hyams</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114576</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q241309</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/10">
+	<dbp:originalTitle>GoldenEye</dbp:originalTitle>
+	<dbp:director>Martin Campbell</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113189</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q19089</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/11">
+	<dbp:originalTitle>American President, The</dbp:originalTitle>
+	<dbp:director>Rob Reiner</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112346</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q429311</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/12">
+	<dbp:originalTitle>Dracula: Dead and Loving It</dbp:originalTitle>
+	<dbp:director>Mel Brooks</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112896</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1254469</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Horror</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/13">
+	<dbp:originalTitle>Balto</dbp:originalTitle>
+	<dbp:director>Simon Wells</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112453</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q764116</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Adventure|Animation|Children</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/14">
+	<dbp:originalTitle>Nixon</dbp:originalTitle>
+	<dbp:director>Oliver Stone</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113987</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q839042</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/15">
+	<dbp:originalTitle>Cutthroat Island</dbp:originalTitle>
+	<dbp:director>Renny Harlin</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112760</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1051496</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/16">
+	<dbp:originalTitle>Casino</dbp:originalTitle>
+	<dbp:director>Martin Scorsese</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112641</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q220910</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/17">
+	<dbp:originalTitle>Sense and Sensibility</dbp:originalTitle>
+	<dbp:director>Ang Lee</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114388</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q643263</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/18">
+	<dbp:originalTitle>Four Rooms</dbp:originalTitle>
+	<dbp:director>Allison Anders|Alexandre Rockwell|Robert Rodriguez|Quentin Tarantino</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113101</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1137372</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/19">
+	<dbp:originalTitle>Ace Ventura: When Nature Calls</dbp:originalTitle>
+	<dbp:director>Steve Oedekerk</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112281</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q340127</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/20">
+	<dbp:originalTitle>Money Train</dbp:originalTitle>
+	<dbp:director>Joseph Ruben</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113845</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1163081</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Comedy|Crime|Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/21">
+	<dbp:originalTitle>Get Shorty</dbp:originalTitle>
+	<dbp:director>Barry Sonnenfeld</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113161</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q261923</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Crime|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/22">
+	<dbp:originalTitle>Copycat</dbp:originalTitle>
+	<dbp:director>Jon Amiel</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112722</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q498990</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama|Horror|Mystery|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/23">
+	<dbp:originalTitle>Assassins</dbp:originalTitle>
+	<dbp:director>Richard Donner</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112401</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q739498</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Crime|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/24">
+	<dbp:originalTitle>Powder</dbp:originalTitle>
+	<dbp:director>Victor</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114168</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1543837</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Sci-Fi</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/25">
+	<dbp:originalTitle>Leaving Las Vegas</dbp:originalTitle>
+	<dbp:director>Mike Figgis</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113627</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q280918</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/26">
+	<dbp:originalTitle>Othello</dbp:originalTitle>
+	<dbp:director>Oliver Parker</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114057</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2036869</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/27">
+	<dbp:originalTitle>Now and Then</dbp:originalTitle>
+	<dbp:director>Lesli Linka Glatter</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114011</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q614966</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Children|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/28">
+	<dbp:originalTitle>Persuasion</dbp:originalTitle>
+	<dbp:director>Roger Michell</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114117</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q919025</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/29">
+	<dbp:originalTitle>City of Lost Children, The (Cité des enfants perdus, La)</dbp:originalTitle>
+	<dbp:director>Jean-Pierre Jeunet|Marc Caro</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112682</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q749988</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Adventure|Drama|Fantasy|Mystery|Sci-Fi</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/30">
+	<dbp:director>Zhang Yimou</dbp:director>
+	<dbp:originalTitle>Shanghai Triad (Yao a yao yao dao waipo qiao)</dbp:originalTitle>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115012</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2276999</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/31">
+	<dbp:originalTitle>Dangerous Minds</dbp:originalTitle>
+	<dbp:director>John N. Smith</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112792</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q579359</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/32">
+	<dbp:originalTitle>Twelve Monkeys (a.k.a. 12 Monkeys)</dbp:originalTitle>
+	<dbp:director>Terry Gilliam</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114746</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q175038</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Mystery|Sci-Fi|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/34">
+	<dbp:originalTitle>Babe</dbp:originalTitle>
+	<dbp:director>Chris Noonan</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112431</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q720724</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Children|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/36">
+	<dbp:originalTitle>Dead Man Walking</dbp:originalTitle>
+	<dbp:director>Tim Robbins</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112818</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q587891</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/38">
+	<dbp:originalTitle>It Takes Two</dbp:originalTitle>
+	<dbp:director>Andy Tennant</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113442</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1308622</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Children|Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/39">
+	<dbp:originalTitle>Clueless</dbp:originalTitle>
+	<dbp:director>Amy Heckerling</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112697</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q931165</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/40">
+	<dbp:originalTitle>Cry, the Beloved Country</dbp:originalTitle>
+	<dbp:director>Darrell Roodt</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112749</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q3392374</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/41">
+	<dbp:originalTitle>Richard III</dbp:originalTitle>
+	<dbp:director>Richard Loncraine</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114279</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2501468</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|War</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/42">
+	<dbp:originalTitle>Dead Presidents</dbp:originalTitle>
+	<dbp:director>Allen Hughes|Albert Hughes</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112819</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1180839</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Crime|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/43">
+	<dbp:originalTitle>Restoration</dbp:originalTitle>
+	<dbp:director>Michael Hoffman</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114272</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2093029</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/44">
+	<dbp:originalTitle>Mortal Kombat</dbp:originalTitle>
+	<dbp:director>Paul W. S. Anderson</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113855</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q819196</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Fantasy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/45">
+	<dbp:originalTitle>To Die For</dbp:originalTitle>
+	<dbp:director>Gus Van Sant</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114681</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q590701</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/46">
+	<dbp:originalTitle>How to Make an American Quilt</dbp:originalTitle>
+	<dbp:director>Jocelyn Moorhouse</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113347</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q493799</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/47">
+	<dbp:originalTitle>Seven (a.k.a. Se7en)</dbp:originalTitle>
+	<dbp:director>David Fincher</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114369</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q190908</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Mystery|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/48">
+	<dbp:originalTitle>Pocahontas</dbp:originalTitle>
+	<dbp:director>Mike Gabriel|Eric Goldberg</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114148</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q218894</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Animation|Children|Drama|Musical|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/49">
+	<dbp:originalTitle>When Night Is Falling</dbp:originalTitle>
+	<dbp:director>Patricia Rozema</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114916</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q540361</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/50">
+	<dbp:originalTitle>Usual Suspects, The</dbp:originalTitle>
+	<dbp:director>Bryan Singer</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114814</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q132351</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Mystery|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/52">
+	<dbp:originalTitle>Mighty Aphrodite</dbp:originalTitle>
+	<dbp:director>Woody Allen</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113819</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1354109</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/53">
+	<dbp:originalTitle>Lamerica</dbp:originalTitle>
+	<dbp:director>Gianni Amelio</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0110299</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1738422</sch:sameAs>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<dbp:genre>Adventure|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/54">
+	<dbp:originalTitle>Big Green, The</dbp:originalTitle>
+	<dbp:director>Holly Goldberg Sloan</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112499</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q753676</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Children|Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/55">
+	<dbp:originalTitle>Georgia</dbp:originalTitle>
+	<dbp:director>Ulu Grosbard</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113158</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1509291</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/57">
+	<dbp:originalTitle>Home for the Holidays</dbp:originalTitle>
+	<dbp:director>Jodie Foster</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113321</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1395242</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/58">
+	<dbp:originalTitle>Postman, The (Postino, Il)</dbp:originalTitle>
+	<dbp:director>Michael Radford</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0110877</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q258647</sch:sameAs>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/60">
+	<dbp:originalTitle>Indian in the Cupboard, The</dbp:originalTitle>
+	<dbp:director>Frank Oz</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113419</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1194561</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Adventure|Children|Fantasy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/61">
+	<dbp:originalTitle>Eye for an Eye</dbp:originalTitle>
+	<dbp:director>John Schlesinger</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116260</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q760229</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/62">
+	<dbp:imdbId>https://www.imdb.com/title/tt0113862</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q564893</sch:sameAs>
+	<dbp:originalTitle>Mr. Holland's Opus</dbp:originalTitle>
+	<dbp:director>Stephen Herek</dbp:director>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/63">
+	<dbp:originalTitle>Don't Be a Menace to South Central While Drinking Your Juice in the Hood</dbp:originalTitle>
+	<dbp:director>Paris Barclay</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116126</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1619928</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy|Crime</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/64">
+	<dbp:originalTitle>Two if by Sea</dbp:originalTitle>
+	<dbp:director>Bill Bennett</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0118002</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1519553</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/65">
+	<dbp:director>Jason Bloom</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115683</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2067539</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:originalTitle>Bio-Dome</dbp:originalTitle>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/66">
+	<dbp:originalTitle>Lawnmower Man 2: Beyond Cyberspace</dbp:originalTitle>
+	<dbp:director>Farhad Mann</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116839</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q290811</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Action|Sci-Fi|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/68">
+	<dbp:originalTitle>French Twist (Gazon maudit)</dbp:originalTitle>
+	<dbp:director>Josiane Balasko</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113149</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1306348</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/69">
+	<dbp:originalTitle>Friday</dbp:originalTitle>
+	<dbp:director>F. Gary Gray</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113118</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q673486</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/70">
+	<dbp:originalTitle>From Dusk Till Dawn</dbp:originalTitle>
+	<dbp:director>Robert Rodriguez</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116367</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q196004</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Action|Comedy|Horror|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/71">
+	<dbp:originalTitle>Fair Game</dbp:originalTitle>
+	<dbp:director>Andrew Sipes</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113010</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q120484</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/72">
+	<dbp:originalTitle>Kicking and Screaming</dbp:originalTitle>
+	<dbp:director>Noah Baumbach</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113537</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q3196361</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/73">
+	<dbp:originalTitle>Misérables, Les</dbp:originalTitle>
+	<dbp:director>Claude Lelouch</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113828</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1780602</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|War</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/74">
+	<dbp:originalTitle>Bed of Roses</dbp:originalTitle>
+	<dbp:director>Michael Goldenberg</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115644</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q502882</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/75">
+	<dbp:originalTitle>Big Bully</dbp:originalTitle>
+	<dbp:director>Steve Miner</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115676</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q4905397</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/76">
+	<dbp:originalTitle>Screamers</dbp:originalTitle>
+	<dbp:director>Christian Duguay</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114367</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q555995</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Sci-Fi|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/77">
+	<dbp:originalTitle>Nico Icon</dbp:originalTitle>
+	<dbp:director>Susanne Ofteringer</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113973</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q3339863</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Documentary</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/78">
+	<dbp:originalTitle>Crossing Guard, The</dbp:originalTitle>
+	<dbp:director>Sean Penn</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112744</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1141286</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Crime|Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/79">
+	<dbp:originalTitle>Juror, The</dbp:originalTitle>
+	<dbp:director>Brian Gibson</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116731</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1475275</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/80">
+	<dbp:originalTitle>White Balloon, The (Badkonake sefid)</dbp:originalTitle>
+	<dbp:director>Jafar Panahi</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112445</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2355570</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Children|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/81">
+	<dbp:originalTitle>Things to Do in Denver When You're Dead</dbp:originalTitle>
+	<dbp:director>Gary Fleder</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114660</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1169589</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/82">
+	<dbp:originalTitle>Antonia's Line (Antonia)</dbp:originalTitle>
+	<dbp:director>Marleen Gorris</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112379</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q155089</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/83">
+	<dbp:originalTitle>Once Upon a Time... When We Were Colored</dbp:originalTitle>
+	<dbp:director>Tim Reid</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114039</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q7091836</sch:sameAs>
+	<dbp:genre>Drama|Romance</dbp:genre>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/85">
+	<dbp:originalTitle>Angels and Insects</dbp:originalTitle>
+	<dbp:director>Philip Haas</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112365</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q636222</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/86">
+	<dbp:originalTitle>White Squall</dbp:originalTitle>
+	<dbp:director>Ridley Scott</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0118158</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1756394</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/87">
+	<dbp:originalTitle>Dunston Checks In</dbp:originalTitle>
+	<dbp:director>Ken Kwapis</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116151</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q645480</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Children|Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/88">
+	<dbp:originalTitle>Black Sheep</dbp:originalTitle>
+	<dbp:director>Penelope Spheeris</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115697</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q880549</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/89">
+	<dbp:originalTitle>Nick of Time</dbp:originalTitle>
+	<dbp:director>John Badham</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113972</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q909394</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/92">
+	<dbp:originalTitle>Mary Reilly</dbp:originalTitle>
+	<dbp:director>Stephen Frears</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0117002</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q953911</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Drama|Horror|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/93">
+	<dbp:originalTitle>Vampire in Brooklyn</dbp:originalTitle>
+	<dbp:director>Wes Craven</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0114825</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1353837</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Horror|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/94">
+	<dbp:originalTitle>Beautiful Girls</dbp:originalTitle>
+	<dbp:director>Ted Demme</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115639</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q813451</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/95">
+	<dbp:originalTitle>Broken Arrow</dbp:originalTitle>
+	<dbp:director>John Woo</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115759</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q392915</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/96">
+	<dbp:originalTitle>In the Bleak Midwinter</dbp:originalTitle>
+	<dbp:director>Kenneth Branagh</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113403</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2245295</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/97">
+	<dbp:originalTitle>Hate (Haine, La)</dbp:originalTitle>
+	<dbp:director>Mathieu Kassovitz</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113247</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q466101</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Crime|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/99">
+	<dbp:originalTitle>Heidi Fleiss: Hollywood Madam</dbp:originalTitle>
+	<dbp:director>Nick Broomfield</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113283</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q5698865</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Documentary</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/100">
+	<dbp:originalTitle>City Hall</dbp:originalTitle>
+	<dbp:director>Harold Becker</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115907</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q44686</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/101">
+	<dbp:originalTitle>Bottle Rocket</dbp:originalTitle>
+	<dbp:director>Wes Anderson</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0115734</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q514565</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Adventure|Comedy|Crime|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/102">
+	<dbp:originalTitle>Mr. Wrong</dbp:originalTitle>
+	<dbp:director>Nick Castle</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0117102</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q521290</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/103">
+	<dbp:originalTitle>Unforgettable</dbp:originalTitle>
+	<dbp:director>John Dahl</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0118040</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2079258</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Mystery|Sci-Fi|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/104">
+	<dbp:originalTitle>Happy Gilmore</dbp:originalTitle>
+	<dbp:director>Dennis Dugan</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0116483</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1313063</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Comedy</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/105">
+	<dbp:originalTitle>Bridges of Madison County, The</dbp:originalTitle>
+	<dbp:director>Clint Eastwood</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112579</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q399823</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Drama|Romance</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/106">
+	<dbp:originalTitle>Nobody Loves Me (Keiner liebt mich)</dbp:originalTitle>
+	<dbp:director>Doris Dörrie</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0110251</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1738011</sch:sameAs>
+	<dbp:releaseDate>1994</dbp:releaseDate>
+	<dbp:genre>Comedy|Drama</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/107">
+	<dbp:director>Brian Henson</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0117110</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q1788520</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:originalTitle>Muppet Treasure Island</dbp:originalTitle>
+	<dbp:genre>Adventure|Children|Comedy|Musical</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/108">
+	<dbp:originalTitle>Catwalk</dbp:originalTitle>
+	<dbp:director>Robert Leacock</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112646</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q2382701</sch:sameAs>
+	<dbp:releaseDate>1996</dbp:releaseDate>
+	<dbp:genre>Documentary</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/110">
+	<dbp:originalTitle>Braveheart</dbp:originalTitle>
+	<dbp:director>Mel Gibson</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0112573</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q162729</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Drama|War</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/111">
+	<dbp:originalTitle>Taxi Driver</dbp:originalTitle>
+	<dbp:director>Martin Scorsese</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0075314</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q47221</sch:sameAs>
+	<dbp:releaseDate>1976</dbp:releaseDate>
+	<dbp:genre>Crime|Drama|Thriller</dbp:genre>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://odws.univaq.it/movies/112">
+	<dbp:originalTitle>Rumble in the Bronx (Hont faan kui)</dbp:originalTitle>
+	<dbp:director>Stanley Tong</dbp:director>
+	<dbp:imdbId>https://www.imdb.com/title/tt0113326</dbp:imdbId>
+	<sch:sameAs>https://www.wikidata.org/wiki/Q789374</sch:sameAs>
+	<dbp:releaseDate>1995</dbp:releaseDate>
+	<dbp:genre>Action|Adventure|Comedy|Crime</dbp:genre>
+</rdf:Description>
+
+</rdf:RDF>
