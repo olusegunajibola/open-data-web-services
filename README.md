@@ -10,9 +10,11 @@ In this project, we implement the process of data integration using a REST web s
 achieve this, we need to have
 
 a)   a resource (i.e dataset/database),
+
 b) some URIs (unique resource identifiers) that refer to attributes in the resource using
 the resource description framework (RDF) concepts and semantics of subject, object,
 and predicate,
+
 c)   the usage of HTTP methods (i.e GET, POST, PUT, DELETE).
 
 ## Objectives
@@ -20,8 +22,12 @@ c)   the usage of HTTP methods (i.e GET, POST, PUT, DELETE).
 The following are our objectives in this project:
 
 a)   Acquire at least two datasets that are related with an open license.
+
 b)  Clean, enrich and link the datasets.
+
 c)   Define sets of SPARQL queries for retrieving relevant information from the linked
 datasets.
+
 d)  Define a REST web service which exposes and combines the linked datasets.
+
 e)   Define a JAVA Client which interacts with the web service.
